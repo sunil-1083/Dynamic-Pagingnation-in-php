@@ -130,7 +130,7 @@ $rows = $result->num_rows;
                 <a href="http://localhost/pagingnation/server/view.php">View</a>
             </td> 
         </tr>
-    </center>
+    </center> 
     </form>
 
 </body>
