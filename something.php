@@ -128,7 +128,7 @@ $rows = $result->num_rows;
             <td>
                 <a href="http://localhost/pagingnation/server/register.php">Add</a>
                 <a href="http://localhost/pagingnation/server/view.php">View</a>
-            </td>
+            </td> 
         </tr>
     </center>
     </form>
